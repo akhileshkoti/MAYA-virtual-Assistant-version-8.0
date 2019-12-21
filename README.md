@@ -58,8 +58,11 @@ these are the required packages:
 - Vocal response
 - Easy voice-command customization
 - Graphical User Interface easy controling
+# M A Y A GUI
+![mayaGUI](https://user-images.githubusercontent.com/55943851/71309853-e9efe800-2432-11ea-8818-19549345d0c5.png)
+![mayaGUIAbout](https://user-images.githubusercontent.com/55943851/71309856-ed836f00-2432-11ea-8e44-6eeadf80e792.png)
 # Updates
 the updates of version 8. sequence will be soon..
-# Designed by Shanmuk Michael
+# Developed by Shanmuk Michael
 
 
